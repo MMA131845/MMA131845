@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=MMA131845&fontSize=70&fontAlignY=35&desc=Game%20Developer%20%C2%B7%20C%23%20%2F%20.NET%20%2F%20Unity&descAlignY=55&descSize=18" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=LUMU&fontSize=70&fontAlignY=35&desc=Game%20Developer%20%C2%B7%20C%23%20%2F%20.NET%20%2F%20Unity&descAlignY=55&descSize=18" alt="header"/>
 </p>
 
 <!--   my-icons -->
